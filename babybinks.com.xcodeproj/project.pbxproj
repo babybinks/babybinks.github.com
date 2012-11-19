@@ -1,0 +1,102 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		37CC5D57165A93C900654111 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
+		37CC5D58165A93C900654111 /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		37CC5D59165A93C900654111 /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		37CC5D5B165A93C900654111 /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		37CC5D5C165A93C900654111 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
+		37CC5D5D165A93C900654111 /* atom.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = atom.xml; sourceTree = "<group>"; };
+		37CC5D5E165A93C900654111 /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		37CC5D5F165A93C900654111 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		37CC5D60165A93C900654111 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		37CC5D61165A93C900654111 /* robots.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = robots.txt; sourceTree = "<group>"; };
+		37CC5D62165A93C900654111 /* sitemap.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = sitemap.xml; sourceTree = "<group>"; };
+		37CC5D94165AA06200654111 /* NOTES.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = NOTES.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		37CC5D4E165A931200654111 = {
+			isa = PBXGroup;
+			children = (
+				37CC5D94165AA06200654111 /* NOTES.txt */,
+				37CC5D5F165A93C900654111 /* index.html */,
+				37CC5D58165A93C900654111 /* _includes */,
+				37CC5D59165A93C900654111 /* _layouts */,
+				37CC5D5C165A93C900654111 /* assets */,
+				37CC5D66165A94B600654111 /* Config */,
+			);
+			sourceTree = "<group>";
+		};
+		37CC5D66165A94B600654111 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				37CC5D5E165A93C900654111 /* CNAME */,
+				37CC5D5B165A93C900654111 /* 404.html */,
+				37CC5D62165A93C900654111 /* sitemap.xml */,
+				37CC5D5D165A93C900654111 /* atom.xml */,
+				37CC5D61165A93C900654111 /* robots.txt */,
+				37CC5D60165A93C900654111 /* README.md */,
+				37CC5D57165A93C900654111 /* _config.yml */,
+			);
+			name = Config;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		37CC5D50165A931200654111 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
+			buildConfigurationList = 37CC5D53165A931200654111 /* Build configuration list for PBXProject "babybinks.com" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 37CC5D4E165A931200654111;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		37CC5D55165A931200654111 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		37CC5D56165A931200654111 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		37CC5D53165A931200654111 /* Build configuration list for PBXProject "babybinks.com" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37CC5D55165A931200654111 /* Debug */,
+				37CC5D56165A931200654111 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 37CC5D50165A931200654111 /* Project object */;
+}

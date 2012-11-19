@@ -1,0 +1,6 @@
+server_port: 4000
+pygments:    true 
+permalink:   date
+main_title:  "Baby Binks | Smart Stuff for Smart Kids"
+description: "Smart Stuff for Smart Kids"
+exclude: babybinks.com.xcodeproj

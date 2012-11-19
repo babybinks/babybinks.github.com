@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+
+    <ul class="breadcrumb">
+        <li><a href="#">Courses</a> <span class="divider">/</span></li>
+        <li><a href="{{ page.course }}">{{ page.course }}</a> <span class="divider">/</span></li>
+        <li class="active">{{ page.quarter }}</li>
+    </ul>
+    
+<article>
+<div class="page-header">
+    <h1>{{ page.title }} <small>{{ page.date || date_to_string }}</small></h1>
+</div>
+{{ content }}
+</article>
+</div>
