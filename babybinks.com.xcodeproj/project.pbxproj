@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		37062418165BFBBC00855AC8 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
+		3706241A165C0CF200855AC8 /* privacy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = privacy.html; sourceTree = "<group>"; };
 		37CC5D57165A93C900654111 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
 		37CC5D58165A93C900654111 /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
 		37CC5D59165A93C900654111 /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
@@ -27,6 +29,8 @@
 			children = (
 				37CC5D94165AA06200654111 /* NOTES.txt */,
 				37CC5D5F165A93C900654111 /* index.html */,
+				37062418165BFBBC00855AC8 /* about.html */,
+				3706241A165C0CF200855AC8 /* privacy.html */,
 				37CC5D58165A93C900654111 /* _includes */,
 				37CC5D59165A93C900654111 /* _layouts */,
 				37CC5D5C165A93C900654111 /* assets */,
