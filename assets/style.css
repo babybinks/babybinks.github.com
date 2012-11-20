@@ -5,10 +5,11 @@
  Special styles for presenting Bootstrap's documentation and examples
  */
 
-/* Custom container */
+/*
+ Custom container */
 
 * {
-    font-family : "Numans",Verdana, Helvetica, sans-serif;
+    font-family : "Josefin Sans",Verdana, Helvetica, sans-serif;
     color:#888;
 }
 
